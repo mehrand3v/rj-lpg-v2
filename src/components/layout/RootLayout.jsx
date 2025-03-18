@@ -294,7 +294,7 @@ export default function RootLayout() {
             </div>
           </div>
 
-          <main className="py-10">
+          <main className="py-10 bg-white dark:bg-gray-900">
             <div className="px-4 sm:px-6 lg:px-8">
               <Outlet />
             </div>
